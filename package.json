@@ -1,0 +1,16 @@
+{
+  "name": "form_details",
+  "version": "1.0.0",
+  "description": "users details using form",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node form.js",
+    "start-server": "node form.js"
+  },
+  "author": "praveen kumar B",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
